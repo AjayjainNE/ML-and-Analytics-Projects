@@ -91,7 +91,7 @@ jupyter notebook "Mapping the Global Aviation Network.ipynb"
 
 ## 👤 Author
 
-**Ajay Khadke** — Student ID: 101113890
+**Ajay Khadke** 
 
 ---
 
