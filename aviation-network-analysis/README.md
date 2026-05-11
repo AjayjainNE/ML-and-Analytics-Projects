@@ -40,7 +40,7 @@ OpenFlight Identifier/
 
 ### 1. Clone the repository
 ```bash
-git clone 
+git clone https://github.com/AjayjainNE/ML-and-Analytics-Projects.git
 cd OpenFlight-Identifier
 ```
 
